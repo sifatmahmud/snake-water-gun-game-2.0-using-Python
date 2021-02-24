@@ -8,6 +8,6 @@ Game rules :
     4. If you choose snake and computer choose water, then you will win the round, because snake drink the water.
     5. If you choose gun and computer choose water then computer will win the round, because water destroy the gun.
     6. If both your choise are same, then both will be winner of the round.
-    winner point per round 1
+    winner point per round 1.
     There is 10 round in the game. 
 Feel free to use code😇🤗❤
