@@ -1,4 +1,5 @@
-# snake-water-gun-game-2.0
+# snake-water-gun-game-2.0❤❤😇❤❤
+This is the second version of this game.
 This is a very interesting game, In this game you can play game with computer.
 Game rules : 
     1. At first you have to write/input your name
@@ -9,3 +10,4 @@ Game rules :
     6. If both your choise are same, then both will be winner of the round.
     winner point per round 1
     There is 10 round in the game. 
+Feel free to use code😇🤗❤
